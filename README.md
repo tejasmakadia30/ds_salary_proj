@@ -1,5 +1,7 @@
 # ds_salary_proj
 
+# Data Science Salary Estimator: Project Overview
+
 ## resources
 https://github.com/arapfaik/scraping-glassdoor-selenium
 
