@@ -21,20 +21,20 @@ https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask
 
 ## WEb Scraper
 From the above github repo. scrape 1000 job postings from glassdoor.com. With each job, we got the following:
---> Job title
---> Salary Estimate
---> Job Description
---> Rating
---> Company
---> Location
---> Company Headquarters
---> Company Size
---> Company Founded Date
---> Type of Ownership
---> Industry
---> Sector
---> Revenue
---> Competitors
+--> Job title                                                                                                                                          
+--> Salary Estimate                                                                                                                                        
+--> Job Description                                                                                                                                   
+--> Rating                                                                                                                                   
+--> Company                                                                                                                                          
+--> Location                                                                                                                             
+--> Company Headquarters                                                                                                              
+--> Company Size                                                                                                                                        
+--> Company Founded Date                                                                                                             
+--> Type of Ownership                                                                                                                 
+--> Industry                                                                                                                            
+--> Sector                                                                                                     
+--> Revenue                                                                                                                                   
+--> Competitors                                                                                                                                  
 
 ## For the detailed documentation:
 https://www.notion.so/Data-Science-Salary-Project-922dea4433794216b579514ed0a4eb65
