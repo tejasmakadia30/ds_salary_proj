@@ -19,8 +19,8 @@ https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-mi
 #### Flask Productionization: 
 https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
-## WEb Scraper
-From the above github repo. scrape 1000 job postings from glassdoor.com. With each job, we got the following:
+## Web Scraper
+From the above github repo. scrape 1000 job postings from glassdoor.com. With each job, we got the following:                                                                                                            
 --> Job title                                                                                                                                          
 --> Salary Estimate                                                                                                                                        
 --> Job Description                                                                                                                                   
