@@ -7,7 +7,7 @@
 --> Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.                                                            
 --> Built a client facing API using flask.                                                                       
 
-## resources & Code
+## Resources & Code
 #### Packages:  
 pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 #### For Web Framework Requirements: 
